@@ -17,5 +17,8 @@ function SinhVien () {
         console.log('hiển thị thông tin!');
     }
 
+    this.xepLoaiSinhVien = function () {
+        console.log('xếp loại');
+    }
 }
 
