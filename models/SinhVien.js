@@ -13,6 +13,9 @@ function SinhVien () {
         var dtb = (Number(this.diemHoa) + Number(this.diemLy) + Number(this.diemToan))
         return dtb;
     }
+    this.hienThiThongTin = function () {
+        console.log('hiển thị thông tin!');
+    }
 
 }
 
