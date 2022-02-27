@@ -1,0 +1,1 @@
+console.log('devA code chức năng ABC');
